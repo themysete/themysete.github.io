@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://themysete.github.io/sitemap
+Sitemap: https://themysete.github.io/app/sitemap
+Sitemap: https://themysete.github.io/assets/sitemap
+Sitemap: https://themysete.github.io/css/sitemap
+Sitemap: https://themysete.github.io/includes/sitemap
+Sitemap: https://themysete.github.io/item/sitemap
+Sitemap: https://themysete.github.io/src/sitemap
